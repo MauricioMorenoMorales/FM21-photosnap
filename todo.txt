@@ -1,1 +1,1 @@
-install pug in the docker image
+crea el componente del boton
