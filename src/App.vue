@@ -14,5 +14,4 @@
   -moz-osx-font-smoothing grayscale
   text-align center
   background gradient
-  margin-top 60px
 </style>
