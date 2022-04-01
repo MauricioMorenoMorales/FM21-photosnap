@@ -1,6 +1,3 @@
-// Each svg gradient works only adding the isHover fill and a linear gradient
-tag inside it
-
 <template>
   <span
     v-if="iconName === 'facebook'"
